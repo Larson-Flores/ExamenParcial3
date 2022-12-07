@@ -1,0 +1,17 @@
+button.color{
+  font-weight: 900;
+  color: black;
+  background-color:aquamarine;
+}
+
+body{
+  background-color: blue;
+}
+table{
+  text-align: center;
+  color: aqua;
+}
+h3{
+  text-align: center;
+  color: aqua;
+}
